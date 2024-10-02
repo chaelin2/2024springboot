@@ -7,7 +7,6 @@ public class Member {
 	String id; 
 	String name;
 	
-	
 	}
 
 
