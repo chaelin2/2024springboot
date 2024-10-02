@@ -6,4 +6,8 @@ import lombok.Data;
 public class Member {
 	String id; 
 	String name;
+	
+	
 	}
+
+
